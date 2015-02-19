@@ -1,2 +1,4 @@
-i was born in 1842.
+I was born in 1842.
+
+I am male.
 
